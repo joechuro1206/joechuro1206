@@ -5,5 +5,3 @@
 - Angular
 - React
 - Firebase
-
-Si necesitas ayuda o tienes alguna pregunta sobre estos temas, ¡no dudes en preguntar!
